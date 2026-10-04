@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 elorm elorm 4096 Oct  4 22:15 .
+drwxr-xr-x 7 elorm elorm 4096 Oct  4 21:47 ..
+-rw-r--r-- 1 elorm elorm    0 Oct  4 21:46 .gitkeep
+-rw-r--r-- 1 elorm elorm  208 Oct  4 22:16 journal.txt

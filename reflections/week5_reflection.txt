@@ -1,0 +1,14 @@
+Student Name: Thomas Oforikumah
+
+What I practiced in the shell:
+I practiced redirecting command output using > and >>. I also practiced searching for text with grep and locating files with find. I used pipes to filter command output and practiced safe wildcard selection with *. These exercises helped me understand how shell commands can be combined to manage files and information efficiently.
+
+How GitHub changed my submission habits:
+GitHub has helped me organize my coursework into a structured repository. I now understand the importance of meaningful commit messages and keeping my work synchronized with the remote repository. Using branches and pull requests also gives me a safer way to make changes before merging them into main. This makes my submissions easier to track and review.
+
+One mistake I made and how I fixed it:
+I initially had an incorrect Git remote URL that caused authentication and connection errors when I tried to push. I checked the remote configuration with git remote -v and corrected it to the proper GitHub repository URL. After that, I authenticated with GitHub using my username and personal access token, and the push succeeded.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to match SE103-Week5 because the assignment specified an exact repository name. Using the required name makes it easier for the instructor or grading system to identify the correct submission.
+

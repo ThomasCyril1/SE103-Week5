@@ -1,0 +1,3 @@
+shell_practice/data1.txt
+shell_practice/data2.txt
+shell_practice/data3.txt

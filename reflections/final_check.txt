@@ -1,0 +1,8 @@
+Student Name: Thomas Oforikumah
+GitHub Username: ThomasCyril1
+Repository: SE103-Week5
+Repository URL: https://github.com/ThomasCyril1/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+I would check my Git remote configuration earlier to make sure the repository URL is correct before attempting to push. I would also verify the staged files and commit history more frequently to catch mistakes early.
+
